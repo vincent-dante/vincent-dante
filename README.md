@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vincent Dante</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
-- 🌱 I’m currently learning **NuxtJS, NextJS**
-
 - 👨‍💻 All of my projects are available at [https://portfolio-vincentdante.herokuapp.com](https://portfolio-vincentdante.herokuapp.com)
 
 - 📫 How to reach me **vincent.dante96@gmail.com**
