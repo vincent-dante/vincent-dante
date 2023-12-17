@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vincent Dante</h1>
 <h3 align="center">Software engineer from Philippines</h3>
 
-- 👨‍💻 Portfolio [https://vincentdante.vercel.app/](https://vincentdante.vercel.app/)
+- 👨‍💻 Portfolio https://www.vincentdante.com
 
 - 📫 How to reach me **vincent.dante96@gmail.com**
 
